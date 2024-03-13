@@ -6,5 +6,5 @@ function sendEmail() {
         message: document.getElementById("message").value,
     }
 
-    emailjs.send("service_ydzzprr", "template_fv8zhwj", params).then(alert("Message sent!"))
+    emailjs.send("service_ydzzprr", "template_fv8zhwj", params).then(alert("Mensaje enviado!"))
 }
