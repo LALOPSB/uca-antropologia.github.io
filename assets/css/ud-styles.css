@@ -15,7 +15,7 @@
   --font: "Inter", sans-serif;
   --body-color: #637381;
   --heading-color: #212b36;
-  --primary-color: #3056d3;
+  --primary-color: #212b36;
   --white: #ffffff;
 }
 
@@ -178,7 +178,7 @@ p {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  background: var(--primary-color);
+  background: var(--heading-color);
   -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -1642,7 +1642,7 @@ p {
   padding-top: 130px;
   padding-bottom: 80px;
   background: var(--primary-color);
-  background-image: url("../images/banner/banner-bg.svg");
+  background-image: url("hero-image-2.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
