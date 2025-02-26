@@ -1233,6 +1233,13 @@ p {
   margin: 0px auto 25px;
 }
 
+.ud-single-team .ud-team-image-wrapper-small {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin: 0px auto 15px;
+}
+
 .ud-single-team .ud-team-image {
   border-radius: 50%;
 }
